@@ -1,2 +1,2 @@
 # MVCFrog
-Demo of MVC model using a Frog object
+Demo of MVC design pattern using a Frog object
