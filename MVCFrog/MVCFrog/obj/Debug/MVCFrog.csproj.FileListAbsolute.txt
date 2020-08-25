@@ -1,0 +1,10 @@
+C:\Users\MC03286\source\repos\MVCFrog\MVCFrog\obj\Debug\MVCFrog.csprojAssemblyReference.cache
+C:\Users\MC03286\source\repos\MVCFrog\MVCFrog\obj\Debug\MVCFrog.FrogView.resources
+C:\Users\MC03286\source\repos\MVCFrog\MVCFrog\obj\Debug\MVCFrog.Properties.Resources.resources
+C:\Users\MC03286\source\repos\MVCFrog\MVCFrog\obj\Debug\MVCFrog.csproj.GenerateResource.cache
+C:\Users\MC03286\source\repos\MVCFrog\MVCFrog\obj\Debug\MVCFrog.csproj.CoreCompileInputs.cache
+C:\Users\MC03286\source\repos\MVCFrog\MVCFrog\bin\Debug\MVCFrog.exe.config
+C:\Users\MC03286\source\repos\MVCFrog\MVCFrog\bin\Debug\MVCFrog.exe
+C:\Users\MC03286\source\repos\MVCFrog\MVCFrog\bin\Debug\MVCFrog.pdb
+C:\Users\MC03286\source\repos\MVCFrog\MVCFrog\obj\Debug\MVCFrog.exe
+C:\Users\MC03286\source\repos\MVCFrog\MVCFrog\obj\Debug\MVCFrog.pdb
